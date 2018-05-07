@@ -1,5 +1,5 @@
-Package: com.kula67.autolead
-Name: autolead67
+Package: com.yourepo.kula67.lakeautolead
+Name: autolead67lake
 Version: 7.2.3
 Architecture: iphoneos-arm
 Description: kulalasusu for IOS Model 9.2.1 - 10.2.1
@@ -8,13 +8,13 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/autolead67.deb
-Size: 249856
-MD5sum: 231da6607c3c5e67dd8ea5f9dfc1ac75
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kulalasusu.icontool,com.kulalasusu.locationfaker8910,com.kulalasusu.xcon,com.kulalasusu.hookkeyboard
+Size: 243008
+MD5sum: cfae01227b2904d6a2ed6ba070549ee0
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
 
-Package: com.kula63.autolead
+Package: com.yourepo.kula67.autolead63
 Name: autolead63
 Version: 7.2.3
 Architecture: iphoneos-arm
@@ -26,11 +26,11 @@ Section: System
 Filename: ./Debs/autolead63.deb
 Size: 243002
 MD5sum: edefe736fe5b09da57ba5c0312049d08
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.kulalasusu.icontool,com.kulalasusu.locationfaker8910,com.kulalasusu.xcon,com.kulalasusu.hookkeyboard
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
 
-Package: com.kulalasusu.icontool
+Package: com.yourepo.kula67.icontool
 Name: Icon Tool
 Version: 1.9-5k
 Architecture: iphoneos-arm
@@ -45,7 +45,7 @@ MD5sum: 556ac25a2bc2055d919cfee7a730d91c
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 
-Package: com.kulalasusu.hookkeyboard
+Package: com.yourepo.kula67.hookkeyboard
 Name: hookkeyboard
 Version: 7.2.3
 Architecture: iphoneos-arm
@@ -59,7 +59,7 @@ Size: 331786
 MD5sum: c54de4e699cce6d761e99325da80eafc
 Depends: mobilesubstrate
 
-Package: com.kulalasusu.locationfaker8910
+Package: com.yourepo.kula67.locationfakerios89
 Name: LocationFaker(8,9,10)
 Version: 2.0k
 Architecture: iphoneos-arm
@@ -74,7 +74,7 @@ MD5sum: 21b042583409a642ba844966dcabead3
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
-Package: com.kulalasusu.xcon
+Package: com.yourepo.kula67.xcon
 Name: xCon
 Version: 42-beta1
 Architecture: iphoneos-arm
