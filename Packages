@@ -8,8 +8,6 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/autolead67.deb
-Size: 243042
-MD5sum: 1efab8e108363241b532ff359535dc36
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
@@ -24,8 +22,6 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/autolead63.deb
-Size: 243002
-MD5sum: edefe736fe5b09da57ba5c0312049d08
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
@@ -40,8 +36,6 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/icontool.deb
-Size: 386246
-MD5sum: 22f5d2b9692a9673a268f3705d8ef442
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
 
@@ -55,8 +49,6 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/hookkeyboard.deb
-Size: 330106
-MD5sum: 0e843f6eb875ed4d6fddbf73f90a3213
 Depends: mobilesubstrate
 
 Package: com.yourepo.kula67.locationfakerios89
@@ -69,8 +61,6 @@ Author: Cunstuck <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/locationfaker.deb
-Size: 550628
-MD5sum: c695ac7463d8d6faf830f598e9ad2a10
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -84,7 +74,5 @@ Author: Lunatik <nofearlose@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/xcon.deb
-Size: 136550
-MD5sum: a00f0a740abb1f1570f29c2e52e16dfc
 Depends: mobilesubstrate
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
