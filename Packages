@@ -8,8 +8,8 @@ Author: kulalasusu <kulalasusu723@gmail.com>
 Sponsor: GitHub.com <github.com>
 Section: System
 Filename: ./Debs/autolead67.deb
-Size: 243008
-MD5sum: cfae01227b2904d6a2ed6ba070549ee0
+Size: 243042
+MD5sum: 6a4d399bb9aed209700467651cfec946
 Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.kula67.locationfakerios89,openssh,com.yourepo.kula67.xcon,jetslammed,socat,com.yourepo.kula67.hookkeyboard,com.yourepo.kula67.icontool,com.cydiageek.coysim
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 
