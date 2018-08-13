@@ -1,0 +1,76 @@
+Package: com.yourepo.den72.autolead72
+Name: autolead72 d5.49
+Version: 7.2.3
+Architecture: iphoneos-arm
+Description: kulalasusu for IOS Model 9.2.1 - 10.2.1
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: den72 <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: System
+Filename: ./Debs/autolead72.deb
+Size: 243044
+MD5sum: a74948ec34ea195ad67f8d61292211ff
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,com.yourepo.den72.xcon,jetslammed,socat,com.yourepo.den72.hookkeyboard,com.yourepo.den72.icontool,com.cydiageek.coysim,com.yourepo.den72.locationfaker8910
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
+
+
+
+
+Package: com.yourepo.den72.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Architecture: iphoneos-arm
+Description: App tools menu from jiggle mode
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/icontool.deb
+Size: 386242
+MD5sum: 45b394e0b3cd5df07ed720a4052497f9
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
+
+Package: com.yourepo.den72.hookkeyboard
+Name: hookkeyboard
+Version: 7.2.3
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead  iOS 9.2.1 --- 10.2.1
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: kulalasusu <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/hookkeyboard.deb
+Size: 331748
+MD5sum: 577ceab7157c842a1e81b2b7688c1783
+Depends: mobilesubstrate
+
+Package: com.yourepo.den72.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Architecture: iphoneos-arm
+Description: Change your location using a map Cracked
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: Cunstuck <kulalasusu723@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/locationfaker.deb
+Size: 551056
+MD5sum: c0a4cf08cf164162a05ce99b903559ae
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.yourepo.den72.xcon
+Name: xCon
+Version: 42-beta1
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection
+Maintainer: kulalasusu <kulalasusu723@gmail.com>
+Author: Lunatik <nofearlose@gmail.com>
+Sponsor: GitHub.com <github.com>
+Section: Tweaks
+Filename: ./Debs/xcon.deb
+Size: 141880
+MD5sum: 5d004d95f9980082c71867fb21a64bd1
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner,com.yourepo.cml.xcon,com.yourepo.viet.xcon
